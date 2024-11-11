@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This project is not mine. It is from https://gitgud.io/wackyideas/aerothemeplasma and you should not credit me for anything in this repo.
+
 # AEROTHEMEPLASMA FOR KDE 6
 
 ## WARNING: This version is very early WIP and is not fully finished. Proceed with caution.
